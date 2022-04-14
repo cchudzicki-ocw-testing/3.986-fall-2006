@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: This resource contains lecture notes on recently discovered Olmec writing.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/35db54493a3d2081a747654dc55f9038_olmec.pdf
+file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+resourcetype: Document
+title: olmec.pdf
+uid: 35db5449-3a3d-2081-a747-654dc55f9038
+---
