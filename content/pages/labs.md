@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lab section contains a list of lab topics and supporting resources
+  for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
